@@ -1,4 +1,4 @@
-### Hi I am Palak!👋
+## Hi I am Palak!👋
 
 <!--
 **Palak2808/Palak2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
