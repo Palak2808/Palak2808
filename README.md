@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, My Name is Palak</h1>
-<h3 align="center">I am a Pre-Final Year student at Chitkara University pursuing Computer Engineering. I have a keen interest in Web Development and learning new technologies.</h3>
+<h3 align="center">Frontend Developer with 2 years of experience building responsive web applications using React.js, TypeScript, and JavaScript. Skilled in reusable components, API integration, and performance optimization. Experienced in developing scalable, user-friendly interfaces and collaborating with cross-functional teams. Currently exploring Generative AI with TypeScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak2808&label=Profile%20views&color=0e75b6&style=flat" alt="palak2808" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palak2808" alt="palak2808" /></a> </p>
-
-- 🌱 I’m currently learning **Backend,Data Structures and Algorithms in Java**
 
 - 📫 How to reach me **palakjindal2808@gmail.com**
 
